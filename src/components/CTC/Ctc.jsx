@@ -6,7 +6,7 @@ function Ctc() {
   return (
     <div className="max-w-[1920px] m-auto pt-[80px] px-[300px] pb-[320px] flex gap-6 bg-[#F5F7FA]">
       {/* left div */}
-      <div className=" relative overflow-hidden border border-black w-[648px] pt-[40px] flex gap-6 flex-col bg-gradient-to-r from-[#CC522B] to-[#FF6636]">
+      <div className=" relative overflow-hidden  w-[648px] pt-[40px] flex gap-6 flex-col bg-gradient-to-r from-[#CC522B] to-[#FF6636]">
         <div className=" w-[568px] flex flex-col gap-3 mr-10 ml-10">
           <p className=" w-[600px] font-inter text-[32px] font-semibold leading-[40px] tracking-[-0.01em] text-left text-white">
             Become an instructor
