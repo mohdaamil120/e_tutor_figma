@@ -10,7 +10,7 @@ import Google from "../../assets/go.jpg"
 
 function TrustedCompaniesComponent() {
   return (
-    <div className='w-[1920px]  pt-[80px] pb-[80px] px-[300px] flex  gap-[24px] justify-center items-center'>
+    <div className='w-[1920px] m-auto pt-[80px] pb-[80px] px-[300px] flex  gap-[24px] justify-center items-center'>
       {/* 1st coloum */}
       <div className='w-[424px] flex flex-col gap-6'>
         <p className='font-inter text-[32px] font-semibold leading-[40px] tracking-[-0.01em] text-left text-[#1D2026]'>

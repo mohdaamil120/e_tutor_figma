@@ -11,7 +11,7 @@ function Secondnav() {
         <div className=" max-w-[1920px] px-8 flex justify-between m-auto bg-[#1D2026] p-[24px_32px]  bg-white shadow-[inset_0px_-1px_0px_0px_#E9EAF0]">
             <div className=" flex max-w-[843px] gap-12 items-center justify-center">
                 <div className='py-1 max-w-[153px] flex items-center gap-2 '>
-                    <GraduationIcon/>
+                    <GraduationIcon width="40" height="40"/>
                     <p className='font-inter text-[32px] font-semibold leading-[39.68px] tracking-[-0.03em] text-left text-[#1D2026]'>E-tutor</p>
                 </div>
                 <div className=' flex max-w-[640px] gap-4 items-center justify-center'>
