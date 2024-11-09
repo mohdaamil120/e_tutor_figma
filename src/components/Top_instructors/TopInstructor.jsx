@@ -9,8 +9,8 @@ import StarIcon from '../../../svg/StarIcon';
 
 function TopInstructor() {
   return (
-    <div className=' relative max-w-[1920px] m-auto'>
-        <div className=" absolute top-[-240px] ml-[220px] mr-[220px] w-[1480px] pt-[80px] flex flex-col gap-[40px] border border-[#E9EAF0] bg-white ">
+    <div className='  relative max-w-[1920px] h-[450px] m-auto'>
+        <div className=" absolute top-[-240px] ml-[220px] mr-[220px] w-[1480px] pt-[80px] pb-[82px] flex flex-col gap-[40px] border border-[#E9EAF0] bg-white ">
             {/* 1st row */}
             <p className="font-inter text-[40px] font-semibold leading-[48px] tracking-[-0.01em] text-center text-[#1D2026]">
                 Top instructor of the month

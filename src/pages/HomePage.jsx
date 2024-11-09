@@ -4,6 +4,7 @@ import Header from '../components/header/Header'
 import Category from '../components/category/Category'
 import Ctc from '../components/CTC/Ctc'
 import TopInstructor from '../components/Top_instructors/TopInstructor'
+import TrustedCompaniesComponent from '../components/Trusted_companies/TrustedCompaniesComponent'
 
 function HomePage() {
   return (
@@ -13,6 +14,7 @@ function HomePage() {
       <Category/>
       <Ctc/>
       <TopInstructor/>
+      <TrustedCompaniesComponent/>
     </div>
   )
 }
