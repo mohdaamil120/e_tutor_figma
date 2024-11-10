@@ -6,6 +6,7 @@ import Ctc from '../components/CTC/Ctc'
 import TopInstructor from '../components/Top_instructors/TopInstructor'
 import TrustedCompaniesComponent from '../components/Trusted_companies/TrustedCompaniesComponent'
 import Footer from '../components/Footer/Footer'
+import TopCourses from '../components/Top_courses/TopCourses'
 
 function HomePage() {
   return (
@@ -13,6 +14,7 @@ function HomePage() {
       <Navigation/>
       <Header/>
       <Category/>
+      <TopCourses/>
       <Ctc/>
       <TopInstructor/>
       <TrustedCompaniesComponent/>
